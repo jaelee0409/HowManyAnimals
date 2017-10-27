@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">동물기억</string>
+
+    <string name="right">정답</string>
+    <string name="wrong">오답</string>
+
+    <string name="correct">정답: </string>
+    <string name="incorrect">오답: </string>
+
+    <string name="countBunny">토끼는 몇 마리였습니까?</string>
+    <string name="countMouse">쥐는 몇 마리였습니까?</string>
+    <string name="countDog">개는 몇 마리였습니까?</string>
+    <string name="countGoat">염소는 몇 마리였습니까?</string>
+
+    <string name="countRed">빨간색인 동물은 몇 마리였습니까?</string>
+    <string name="countBlue">파란색인 동물은 몇 마리였습니까?</string>
+    <string name="countYellow">노란색인 동물은 몇 마리였습니까?</string>
+    <string name="countGreen">초록색인 동물은 몇 마리였습니까?</string>
+
+    <string name="countRedBunny">빨간색인 토끼는 몇 마리였습니까?</string>
+    <string name="countBlueBunny">파란색인 토끼는 몇 마리였습니까?</string>
+    <string name="countYellowBunny">노란색인 토끼는 몇 마리였습니까?</string>
+    <string name="countGreenBunny">초록색인 토끼는 몇 마리였습니까?</string>
+
+    <string name="countRedMouse">빨간색인 쥐는 몇 마리였습니까?</string>
+    <string name="countBlueMouse">파란색인 쥐는 몇 마리였습니까?</string>
+    <string name="countYellowMouse">노란색인 쥐는 몇 마리였습니까?</string>
+    <string name="countGreenMouse">초록색인 쥐는 몇 마리였습니까?</string>
+
+    <string name="countRedDog">빨간색인 개는 몇 마리였습니까?</string>
+    <string name="countBlueDog">파란색인 개는 몇 마리였습니까?</string>
+    <string name="countYellowDog">노란색인 개는 몇 마리였습니까?</string>
+    <string name="countGreenDog">초록색인 개는 몇 마리였습니까?</string>
+
+    <string name="countRedGoat">빨간색인 염소는 몇 마리였습니까?</string>
+    <string name="countBlueGoat">파란색인 염소는 몇 마리였습니까?</string>
+    <string name="countYellowGoat">노란색인 염소는 몇 마리였습니까?</string>
+    <string name="countGreenGoat">초록색인 염소는 몇 마리였습니까?</string>
+</resources>

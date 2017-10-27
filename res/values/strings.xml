@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">How Many Animals?</string>
+
+    <string name="right">Correct</string>
+    <string name="wrong">Incorrect</string>
+
+    <string name="correct">Correct: </string>
+    <string name="incorrect">Incorrect: </string>
+
+    <string name="countBunny">How many bunnies were there?</string>
+    <string name="countMouse">How many mice were there?</string>
+    <string name="countDog">How many dogs were there?</string>
+    <string name="countGoat">How many goats were there?</string>
+
+    <string name="countRed">How many red animals were there?</string>
+    <string name="countBlue">How many blue animals were there?</string>
+    <string name="countYellow">How many yellow animals were there?</string>
+    <string name="countGreen">How many green animals were there?</string>
+
+    <string name="countRedBunny">How many red bunnies were there?</string>
+    <string name="countBlueBunny">How many blue bunnies were there?</string>
+    <string name="countYellowBunny">How many yellow bunnies were there?</string>
+    <string name="countGreenBunny">How many green bunnies were there?</string>
+
+    <string name="countRedMouse">How many red mice were there?</string>
+    <string name="countBlueMouse">How many blue mice were there?</string>
+    <string name="countYellowMouse">How many yellow mice were there?</string>
+    <string name="countGreenMouse">How many green mice were there?</string>
+
+    <string name="countRedDog">How many red dogs were there?</string>
+    <string name="countBlueDog">How many blue dogs were there?</string>
+    <string name="countYellowDog">How many yellow dogs were there?</string>
+    <string name="countGreenDog">How many green dogs were there?</string>
+
+    <string name="countRedGoat">How many red goats were there?</string>
+    <string name="countBlueGoat">How many blue goats were there?</string>
+    <string name="countYellowGoat">How many yellow goats were there?</string>
+    <string name="countGreenGoat">How many green goats were there?</string>
+</resources>

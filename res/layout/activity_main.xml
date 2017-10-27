@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/bg"
+    android:orientation="vertical"
+    tools:context="com.itsjae.www.howmanyanimals.MainActivity">
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="125dp"
+        android:paddingTop="200dp" />
+
+    <ImageView
+        android:id="@+id/iv_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleX=".9"
+        android:scaleY="1.5"
+        app:srcCompat="@drawable/title" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="25dp" />
+
+    <ImageView
+        android:id="@+id/iv_play"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="1"
+        android:scaleX=".5"
+        android:scaleY=".5"
+        app:srcCompat="@drawable/button_play" />
+
+    <ImageView
+        android:id="@+id/iv_stats"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="1"
+        android:scaleX=".5"
+        android:scaleY=".5"
+        android:translationY="-20dp"
+        app:srcCompat="@drawable/button_stats" />
+
+    <ImageView
+        android:id="@+id/iv_options"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="1"
+        android:scaleX=".5"
+        android:scaleY=".5"
+        android:translationY="-40dp"
+        app:srcCompat="@drawable/button_options" />
+</LinearLayout>
